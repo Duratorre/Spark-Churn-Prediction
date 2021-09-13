@@ -19,7 +19,7 @@ The goal of this project is to predict customer churn, base on a set of variable
 ## 3. Data and File Descriptions
 The repository contains the following files:
   1. _mini_sparkify_event_data.json"_ contains the customer data that will be used to train and test the ML pipeline;
-  2. _model.ipynb_ contains all the code used for the analysis and the develpment of the ML model.
+  2. _model.ipynb_ contains all the code used for the analysis and the development of the ML model.
 
 <a name="ins"></a>
 ## 4. Instructions
