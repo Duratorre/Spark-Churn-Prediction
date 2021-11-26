@@ -4,7 +4,7 @@
 1. [ Installation. ](#inst)
 2. [ Motivation. ](#motiv)
 3. [ Data. ](#data)
-4. [ Summary. ](#sum)
+4. [ Result Summary. ](#sum)
 5. [ Licensing, Authors, Acknowledgement. ](#lic)
 
 <a name="inst"></a>
@@ -21,7 +21,7 @@ The repository contains the following file:
   - _model.ipynb_ contains all the code used for the analysis and the development of the ML model.
 
 <a name="sum"></a>
-## 4. Result
+## 4. Result Summmary
 The entire dataset of Sparkify is 12GB, however in this project we will analyze only a small subset (128MB) of the full dataset, in order to derive a predictive model to run and test against the full dataset.
 
 For Sparkify, around 20% of the users decide to churn. Users who churn are more predominantly males. Users who churn show less involvement with Sparkify.
